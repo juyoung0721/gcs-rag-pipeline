@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+pandas
+google-cloud-storage
+google-cloud-discoveryengine
+protobuf
+openpyxl 
